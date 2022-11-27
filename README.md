@@ -1,5 +1,4 @@
 # ASP.NET-API-example
-Example of ASP.NET API
 This is a raw project from my last work
 using: 
 1. a database migration,  
